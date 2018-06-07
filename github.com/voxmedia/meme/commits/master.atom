@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/voxmedia/meme/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/voxmedia/meme/commits/master.atom"/>
+  <title>Recent Commits to meme:master</title>
+  <updated>2014-09-09T17:43:28Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2d79bff606175339bc1d92896cf8dd0e8d24b636</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/2d79bff606175339bc1d92896cf8dd0e8d24b636"/>
+    <title>
+        Cleaning up drag-and-drop implementation and adding position constrai…
+    </title>
+    <updated>2014-09-09T17:43:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Cleaning up drag-and-drop implementation and adding position constraints.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c2334b6bbf1e9120dcc2a0d3910dfcce22743d18</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/c2334b6bbf1e9120dcc2a0d3910dfcce22743d18"/>
+    <title>
+        Merge pull request #14 from dannyrich/master
+    </title>
+    <updated>2014-09-09T16:51:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #14 from dannyrich/master
+
+Drag canvas to reposition background&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ff6fdd816b5c3045b2d05b8f86e7407e4e050cfe</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/ff6fdd816b5c3045b2d05b8f86e7407e4e050cfe"/>
+    <title>
+        Adding localStorage watermark caching.
+    </title>
+    <updated>2014-09-09T16:24:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding localStorage watermark caching.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/950551288eae38cc30502983a80cc25167455a2b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/950551288eae38cc30502983a80cc25167455a2b"/>
+    <title>
+        Adding Safari support.
+    </title>
+    <updated>2014-09-09T13:54:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding Safari support.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c71b7236f260ceb6240a944489f13f07a6823095</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/c71b7236f260ceb6240a944489f13f07a6823095"/>
+    <title>
+        Pulsate cross browser
+    </title>
+    <updated>2014-09-08T22:59:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/2489135?s=30&amp;v=4"/>
+    <author>
+      <name>dannyrich</name>
+      <uri>https://github.com/dannyrich</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Pulsate cross browser
+
+Allow other browsers to pulsate too&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b7e052ddf30e90d8b55f12b3ab73ad3316af0e09</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/b7e052ddf30e90d8b55f12b3ab73ad3316af0e09"/>
+    <title>
+        Background positioning
+    </title>
+    <updated>2014-09-08T17:57:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/2489135?s=30&amp;v=4"/>
+    <author>
+      <name>dannyrich</name>
+      <uri>https://github.com/dannyrich</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Background positioning
+
+Add style to body when dragging background position to make sure nothing is selected&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8a12e320f4c6c431a931664f8433159af0503882</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/8a12e320f4c6c431a931664f8433159af0503882"/>
+    <title>
+        Background position
+    </title>
+    <updated>2014-09-08T17:56:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/2489135?s=30&amp;v=4"/>
+    <author>
+      <name>dannyrich</name>
+      <uri>https://github.com/dannyrich</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Background position
+
+Model attribute to store the background position&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/58105b2daf38cb978c2c9a5f2a3c2262bbcd92d9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/58105b2daf38cb978c2c9a5f2a3c2262bbcd92d9"/>
+    <title>
+        Allow moving position of background
+    </title>
+    <updated>2014-09-08T17:50:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/2489135?s=30&amp;v=4"/>
+    <author>
+      <name>dannyrich</name>
+      <uri>https://github.com/dannyrich</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow moving position of background
+
+Add view methods/events for capturing mouse clicks and moves to reposition the background image on the canvas&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a43d615e51efe3791a5a673b0481f9d55dd980a7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/a43d615e51efe3791a5a673b0481f9d55dd980a7"/>
+    <title>
+        Adding documentation links.
+    </title>
+    <updated>2014-09-05T22:25:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding documentation links.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/320e4ad76431dc4afba98e290ec301be02c262ed</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/320e4ad76431dc4afba98e290ec301be02c262ed"/>
+    <title>
+        Merge branch &#39;meme-v2&#39;
+    </title>
+    <updated>2014-09-05T22:18:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;meme-v2&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e1ff3597a91bfe710a3459b4a7cceb0ccd562733</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/e1ff3597a91bfe710a3459b4a7cceb0ccd562733"/>
+    <title>
+        Updated readme.
+    </title>
+    <updated>2014-09-05T22:17:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated readme.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0bc7a2e8a86d823c649a2bfe68a504a0fea57b06</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/0bc7a2e8a86d823c649a2bfe68a504a0fea57b06"/>
+    <title>
+        Adding version 2.0 settings and docs.
+    </title>
+    <updated>2014-09-05T22:17:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding version 2.0 settings and docs.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/147631c3426d9db43417345a0f13db4b354b9b35</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/147631c3426d9db43417345a0f13db4b354b9b35"/>
+    <title>
+        Standardizing options configuration.
+    </title>
+    <updated>2014-09-05T22:16:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Standardizing options configuration.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5583d6a0b5f0568a80c3e6342b10bd0ee57d2436</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/5583d6a0b5f0568a80c3e6342b10bd0ee57d2436"/>
+    <title>
+        Enabling cross-origin image loading.
+    </title>
+    <updated>2014-09-05T22:16:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Enabling cross-origin image loading.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d12fa4f7e7001847b0dd9ee03d22831c415fa078</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/d12fa4f7e7001847b0dd9ee03d22831c415fa078"/>
+    <title>
+        Adding shareable filename setting.
+    </title>
+    <updated>2014-09-05T22:16:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding shareable filename setting.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/74fcf2952475964d8cc97d9c05fef8b9e70e894c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/74fcf2952475964d8cc97d9c05fef8b9e70e894c"/>
+    <title>
+        Fixing settings config
+    </title>
+    <updated>2014-09-05T22:16:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixing settings config&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a13365d800b64bd9b10b5b1f5a816d4f3648049f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/a13365d800b64bd9b10b5b1f5a816d4f3648049f"/>
+    <title>
+        Adding font-monitor helper.
+    </title>
+    <updated>2014-09-05T22:16:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding font-monitor helper.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a52296e4b53df1cad17fb5238916b65252174f22</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/a52296e4b53df1cad17fb5238916b65252174f22"/>
+    <title>
+        Adding watermarks as base64 data.
+    </title>
+    <updated>2014-09-05T22:16:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding watermarks as base64 data.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/11bb1256d6932ec8b15d5d4ff5715ea6ab77ce36</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/11bb1256d6932ec8b15d5d4ff5715ea6ab77ce36"/>
+    <title>
+        Adding &quot;crossOrigin&quot; attribute to image loaders.
+    </title>
+    <updated>2014-09-05T22:16:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding &amp;quot;crossOrigin&amp;quot; attribute to image loaders.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9a2034a1ad7eecbb394fd8afba67003cb0ffa608</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voxmedia/meme/commit/9a2034a1ad7eecbb394fd8afba67003cb0ffa608"/>
+    <title>
+        Adding watermarks as static assets.
+    </title>
+    <updated>2014-09-05T22:16:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/727224?s=30&amp;v=4"/>
+    <author>
+      <name>gmac</name>
+      <uri>https://github.com/gmac</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding watermarks as static assets.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/NYTimes/objective-c-style-guide/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/NYTimes/objective-c-style-guide/commits/master.atom"/>
+  <title>Recent Commits to objective-c-style-guide:master</title>
+  <updated>2017-01-18T16:32:54Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ade4128ac5b4c110a854e1e01db7dc5bc52bb05e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/ade4128ac5b4c110a854e1e01db7dc5bc52bb05e"/>
+    <title>
+        Merge pull request #147 from datell/master
+    </title>
+    <updated>2017-01-18T16:32:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/102904?s=30&amp;v=4"/>
+    <author>
+      <name>cdzombak</name>
+      <uri>https://github.com/cdzombak</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #147 from datell/master
+
+Replaced broken link (Google Styleguide) in all language versions&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c4e3cfd8cbe8706ed2dbadd28dbbd23b47240c27</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/c4e3cfd8cbe8706ed2dbadd28dbbd23b47240c27"/>
+    <title>
+        Replaced broken link (Google Styleguide) in all lang versions
+    </title>
+    <updated>2017-01-18T16:30:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/23486477?s=30&amp;v=4"/>
+    <author>
+      <name>datell</name>
+      <uri>https://github.com/datell</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Replaced broken link (Google Styleguide) in all lang versions&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/65c867213b0ea584a6ecfd1c1af5d564a38ce9ff</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/65c867213b0ea584a6ecfd1c1af5d564a38ce9ff"/>
+    <title>
+        Merge pull request #114 from loganmoseley/RFC-2119
+    </title>
+    <updated>2016-03-07T20:17:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1043416?s=30&amp;v=4"/>
+    <author>
+      <name>Twigz</name>
+      <uri>https://github.com/Twigz</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #114 from loganmoseley/RFC-2119
+
+Adopt RFC 2119 (MUST/SHOULD/MAY/... wording)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/de49e526423b05ab08567d29eee6b54cff2501af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/de49e526423b05ab08567d29eee6b54cff2501af"/>
+    <title>
+        Adopt RFC 2119 wording in Variables, Categories and Protocols
+    </title>
+    <updated>2016-03-07T20:15:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/377298?s=30&amp;v=4"/>
+    <author>
+      <name>loganmoseley</name>
+      <uri>https://github.com/loganmoseley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adopt RFC 2119 wording in Variables, Categories and Protocols&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/911c1cb236ec68bb3559013064f7690a8d4f3365</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/911c1cb236ec68bb3559013064f7690a8d4f3365"/>
+    <title>
+        Merge remote-tracking branch &#39;nytimes/master&#39; into RFC-2119
+    </title>
+    <updated>2016-03-07T20:08:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/377298?s=30&amp;v=4"/>
+    <author>
+      <name>loganmoseley</name>
+      <uri>https://github.com/loganmoseley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;nytimes/master&amp;#39; into RFC-2119&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/040fff02d732c0725fe8a4c150a8b4413993fead</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/040fff02d732c0725fe8a4c150a8b4413993fead"/>
+    <title>
+        Merge pull request #138 from NYTimes/cdz/remove-tweets-link
+    </title>
+    <updated>2015-11-03T14:12:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/161247?s=30&amp;v=4"/>
+    <author>
+      <name>dzlobin</name>
+      <uri>https://github.com/dzlobin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #138 from NYTimes/cdz/remove-tweets-link
+
+Remove &amp;quot;feedback via tweets&amp;quot; link to @NYTimesMobile account&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ec8808e93ce31e3389cc8576a90e4da31d252068</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/ec8808e93ce31e3389cc8576a90e4da31d252068"/>
+    <title>
+        Remove &quot;feedback via tweets&quot; link to @NYTimesMobile account
+    </title>
+    <updated>2015-11-03T14:04:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/102904?s=30&amp;v=4"/>
+    <author>
+      <name>cdzombak</name>
+      <uri>https://github.com/cdzombak</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove &amp;quot;feedback via tweets&amp;quot; link to @NYTimesMobile account
+
+I don&amp;#39;t know who monitors that account. Issues and PRs will ensure this guide&amp;#39;s maintainers see feedback in a timely fashion.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/33b8d34de99504b79c2c3970faf606fac9c69a36</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/33b8d34de99504b79c2c3970faf606fac9c69a36"/>
+    <title>
+        Merge pull request #137 from frankenbot/master
+    </title>
+    <updated>2015-11-03T14:02:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/102904?s=30&amp;v=4"/>
+    <author>
+      <name>cdzombak</name>
+      <uri>https://github.com/cdzombak</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #137 from frankenbot/master
+
+Update redirects&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/89c8e90410b5bedc40a9f30fa59d1d9be3a20e5e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/89c8e90410b5bedc40a9f30fa59d1d9be3a20e5e"/>
+    <title>
+        Update redirects
+    </title>
+    <updated>2015-11-03T07:06:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/15367484?s=30&amp;v=4"/>
+    <author>
+      <name>ReadmeCritic</name>
+      <uri>https://github.com/ReadmeCritic</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update redirects&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/05de3501f219dc9d69ee2193dec93e0c17038a3e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/05de3501f219dc9d69ee2193dec93e0c17038a3e"/>
+    <title>
+        Minor spacing &amp; markdown fixes for es_MX
+    </title>
+    <updated>2015-10-15T15:49:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/102904?s=30&amp;v=4"/>
+    <author>
+      <name>cdzombak</name>
+      <uri>https://github.com/cdzombak</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Minor spacing &amp;amp; markdown fixes for es_MX&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c6ae35afd04d1c690c4df41243e2f2266b0e65d4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/c6ae35afd04d1c690c4df41243e2f2266b0e65d4"/>
+    <title>
+        Merge pull request #134 from fernandolicon/master
+    </title>
+    <updated>2015-10-15T15:45:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/102904?s=30&amp;v=4"/>
+    <author>
+      <name>cdzombak</name>
+      <uri>https://github.com/cdzombak</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #134 from fernandolicon/master
+
+Translation to  Spanish-Mexico&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5e73055fc282e4d719b3ea7ed9f5a5f5e080617b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/5e73055fc282e4d719b3ea7ed9f5a5f5e080617b"/>
+    <title>
+        Revert &quot;Updated English version&quot;
+    </title>
+    <updated>2015-10-06T17:19:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5882477?s=30&amp;v=4"/>
+    <author>
+      <name>fernandomatal</name>
+      <uri>https://github.com/fernandomatal</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Revert &amp;quot;Updated English version&amp;quot;
+
+This reverts commit 7d706654b901af43c0dabd82be450ae9cfeb534f.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/59f4fb1f8a2f17eb4d443937b27fb59c37557297</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/59f4fb1f8a2f17eb4d443937b27fb59c37557297"/>
+    <title>
+        Fixed missing &#39;)&#39;
+    </title>
+    <updated>2015-10-06T17:09:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5882477?s=30&amp;v=4"/>
+    <author>
+      <name>fernandomatal</name>
+      <uri>https://github.com/fernandomatal</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed missing &amp;#39;)&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/087eed0b1c37b5c6a378bff901bf453b91b1f88e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/087eed0b1c37b5c6a378bff901bf453b91b1f88e"/>
+    <title>
+        Corrected grammar errors and last commit
+    </title>
+    <updated>2015-10-06T17:08:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5882477?s=30&amp;v=4"/>
+    <author>
+      <name>fernandomatal</name>
+      <uri>https://github.com/fernandomatal</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Corrected grammar errors and last commit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a5494cc64f51c1384c1350efefa12b91bfb9fde6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/a5494cc64f51c1384c1350efefa12b91bfb9fde6"/>
+    <title>
+        Translated last part of document
+    </title>
+    <updated>2015-10-06T17:07:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5882477?s=30&amp;v=4"/>
+    <author>
+      <name>fernandomatal</name>
+      <uri>https://github.com/fernandomatal</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Translated last part of document&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c1577c4398791fceafb4ebec0e216eaa239a2d00</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/c1577c4398791fceafb4ebec0e216eaa239a2d00"/>
+    <title>
+        Translated Protocols section
+    </title>
+    <updated>2015-10-06T17:02:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5882477?s=30&amp;v=4"/>
+    <author>
+      <name>fernandomatal</name>
+      <uri>https://github.com/fernandomatal</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Translated Protocols section&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0c84cd1a85a2fbef2f0889620e56fed1d66f892d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/0c84cd1a85a2fbef2f0889620e56fed1d66f892d"/>
+    <title>
+        Translated Imports section
+    </title>
+    <updated>2015-10-06T16:57:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5882477?s=30&amp;v=4"/>
+    <author>
+      <name>fernandomatal</name>
+      <uri>https://github.com/fernandomatal</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Translated Imports section&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2d81000fe5bf1dedb1fe46a830504dafbe6c77d2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/2d81000fe5bf1dedb1fe46a830504dafbe6c77d2"/>
+    <title>
+        Translated Singletons and corrected some typos
+    </title>
+    <updated>2015-10-06T16:54:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5882477?s=30&amp;v=4"/>
+    <author>
+      <name>fernandomatal</name>
+      <uri>https://github.com/fernandomatal</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Translated Singletons and corrected some typos&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/52409b8cf7e3d16dab00206b5ffde9044c7df4e6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/52409b8cf7e3d16dab00206b5ffde9044c7df4e6"/>
+    <title>
+        Translated Boolean section
+    </title>
+    <updated>2015-10-06T16:41:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5882477?s=30&amp;v=4"/>
+    <author>
+      <name>fernandomatal</name>
+      <uri>https://github.com/fernandomatal</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Translated Boolean section&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7561512e61f92b90c8089c6e47d00f8232024eb2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/NYTimes/objective-c-style-guide/commit/7561512e61f92b90c8089c6e47d00f8232024eb2"/>
+    <title>
+        Translated Image Naming section and fixed use of English words
+    </title>
+    <updated>2015-10-06T16:35:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5882477?s=30&amp;v=4"/>
+    <author>
+      <name>fernandomatal</name>
+      <uri>https://github.com/fernandomatal</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Translated Image Naming section and fixed use of English words&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,717 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+<!-- Mirrored from jekyllrb.com/docs/windows/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 08 May 2018 01:25:59 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="generator" content="Jekyll v3.7.3">
+  <link type="application/atom+xml" rel="alternate" href="../../feed.xml" title="Jekyll • Simple, blog-aware, static sites" />
+  <link rel="alternate" type="application/atom+xml" title="Recent commits to Jekyll’s master branch" href="https://github.com/jekyll/jekyll/commits/master.atom">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic,900">
+  <link rel="stylesheet" href="../../../cdn.jsdelivr.net/npm/docsearch.js%402/dist/cdn/docsearch.min.css" />
+  <link rel="stylesheet" href="../../css/screen.css">
+  <link rel="icon" type="image/x-icon" href="../../favicon.ico">
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>Jekyll on Windows | Jekyll • Simple, blog-aware, static sites</title>
+<meta name="generator" content="Jekyll v3.7.3" />
+<meta property="og:title" content="Jekyll on Windows" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="While Windows is not an officially-supported platform, it can be used to run Jekyll with the proper tweaks. This page aims to collect some of the general knowledge and lessons that have been unearthed by Windows users." />
+<meta property="og:description" content="While Windows is not an officially-supported platform, it can be used to run Jekyll with the proper tweaks. This page aims to collect some of the general knowledge and lessons that have been unearthed by Windows users." />
+<link rel="canonical" href="index.html" />
+<meta property="og:url" content="index.html" />
+<meta property="og:site_name" content="Jekyll • Simple, blog-aware, static sites" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@jekyllrb" />
+<meta name="google-site-verification" content="onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY" />
+<script type="application/ld+json">
+{"description":"While Windows is not an officially-supported platform, it can be used to run Jekyll with the proper tweaks. This page aims to collect some of the general knowledge and lessons that have been unearthed by Windows users.","@type":"WebPage","url":"https://jekyllrb.com/docs/windows/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://jekyllrb.com/img/logo-2x.png"}},"headline":"Jekyll on Windows","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <!--[if lt IE 9]>
+  <script src="/js/html5shiv.min.js"></script>
+  <script src="/js/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+
+<body class="wrap">
+  <header>
+  <div class="flexbox">
+    <div class="center-on-mobiles">
+      <h1>
+        <a href="../../index.html" class="logo">
+          <span class="sr-only">Jekyll</span>
+          <img src="../../img/logo-2x.png" width="140" height="65" alt="Jekyll Logo">
+        </a>
+      </h1>
+    </div>
+    <nav class="main-nav hide-on-mobiles">
+      <ul>
+  <li class="">
+    <a href="../../index.html">Home</a>
+  </li>
+  <li class="current">
+    <a href="../home/index.html">Docs</a>
+  </li>
+  <li class="">
+    <a href="../../news/index.html">News</a>
+  </li>
+  <li class="">
+    <a href="../../help/index.html">Help</a>
+  </li>
+</ul>
+
+    </nav>
+    <div class="search hide-on-mobiles">
+      <input type="text" id="docsearch-input" placeholder="Search the docs…">
+
+    </div>
+    <div class="meta hide-on-mobiles">
+      <ul>
+        <li>
+          <a href="https://github.com/jekyll/jekyll/releases/tag/v3.8.1">v3.8.1</a>
+        </li>
+        <li>
+          <a href="https://github.com/jekyll/jekyll">GitHub</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <nav class="mobile-nav show-on-mobiles">
+    <ul>
+  <li class="">
+    <a href="../../index.html">Home</a>
+  </li>
+  <li class="current">
+    <a href="../home/index.html">Docs</a>
+  </li>
+  <li class="">
+    <a href="../../news/index.html">News</a>
+  </li>
+  <li class="">
+    <a href="../../help/index.html">Help</a>
+  </li>
+  <li>
+    <a href="https://github.com/jekyll/jekyll">GitHub</a>
+  </li>
+</ul>
+
+  </nav>
+</header>
+
+
+    <section class="docs">
+    <div class="grid">
+
+      <div class="docs-nav-mobile unit whole show-on-mobiles">
+  <select onchange="if (this.value) window.location.href=this.value">
+    <option value="">Navigate the docs…</option>
+    
+    <optgroup label="Getting Started">
+      
+  
+  
+  <option value="/docs/home/">Welcome</option>
+
+  
+  
+  <option value="/docs/quickstart/">Quick-start guide</option>
+
+  
+  
+  <option value="/docs/installation/">Installation</option>
+
+  
+  
+  <option value="/docs/windows/">Jekyll on Windows</option>
+
+  
+  
+  <option value="/docs/usage/">Basic Usage</option>
+
+  
+  
+  <option value="/docs/structure/">Directory structure</option>
+
+  
+  
+  <option value="/docs/configuration/">Configuration</option>
+
+
+    </optgroup>
+    
+    <optgroup label="Your Content">
+      
+  
+  
+  <option value="/docs/frontmatter/">Front Matter</option>
+
+  
+  
+  <option value="/docs/posts/">Writing posts</option>
+
+  
+  
+  <option value="/docs/drafts/">Working with drafts</option>
+
+  
+  
+  <option value="/docs/pages/">Creating pages</option>
+
+  
+  
+  <option value="/docs/static-files/">Static Files</option>
+
+  
+  
+  <option value="/docs/variables/">Variables</option>
+
+  
+  
+  <option value="/docs/collections/">Collections</option>
+
+  
+  
+  <option value="/docs/datafiles/">Data Files</option>
+
+  
+  
+  <option value="/docs/assets/">Assets</option>
+
+  
+  
+  <option value="/docs/migrations/">Blog migrations</option>
+
+
+    </optgroup>
+    
+    <optgroup label="Customization">
+      
+  
+  
+  <option value="/docs/templates/">Templates</option>
+
+  
+  
+  <option value="/docs/includes/">Includes</option>
+
+  
+  
+  <option value="/docs/permalinks/">Permalinks</option>
+
+  
+  
+  <option value="/docs/pagination/">Pagination</option>
+
+  
+  
+  <option value="/docs/plugins/">Plugins</option>
+
+  
+  
+  <option value="/docs/themes/">Themes</option>
+
+  
+  
+  <option value="/docs/extras/">Extras</option>
+
+
+    </optgroup>
+    
+    <optgroup label="Deployment">
+      
+  
+  
+  <option value="/docs/github-pages/">GitHub Pages</option>
+
+  
+  
+  <option value="/docs/deployment-methods/">Deployment methods</option>
+
+  
+  
+  <option value="/docs/continuous-integration/">Continuous Integration</option>
+
+
+    </optgroup>
+    
+    <optgroup label="Miscellaneous">
+      
+  
+  
+  <option value="/docs/troubleshooting/">Troubleshooting</option>
+
+  
+  
+  <option value="/docs/sites/">Sites using Jekyll</option>
+
+  
+  
+  <option value="/docs/resources/">Resources</option>
+
+  
+  
+  <option value="/docs/upgrading/0-to-2/">Upgrading from 0.x to 2.x</option>
+
+  
+  
+  <option value="/docs/upgrading/2-to-3/">Upgrading from 2.x to 3.x</option>
+
+
+    </optgroup>
+    
+    <optgroup label="Meta">
+      
+  
+  
+  <option value="/docs/contributing/">Contributing</option>
+
+  
+  
+  <option value="/docs/maintaining/">Maintaining Jekyll</option>
+
+  
+  
+  <option value="/docs/conduct/">Code of Conduct</option>
+
+  
+  
+  <option value="/docs/history/">History</option>
+
+
+    </optgroup>
+    
+  </select>
+</div>
+
+
+      <div class="unit four-fifths">
+        <article>
+          <div class="improve right hide-on-mobiles">
+            <a href="https://github.com/jekyll/jekyll/edit/master/docs/_docs/windows.md"><i class="fa fa-pencil"></i> &nbsp;Improve this page</a>
+          </div>
+          <h1>Jekyll on Windows</h1>
+          <p>While Windows is not an officially-supported platform, it can be used to run Jekyll with the proper tweaks. This page aims to collect some of the general knowledge and lessons that have been unearthed by Windows users.</p>
+
+<h2 id="installing-jekyll">Installing Jekyll</h2>
+<p>The easiest way to run Jekyll is by using the <a href="https://rubyinstaller.org/">RubyInstaller</a> for Windows.</p>
+
+<h3 id="installation-via-rubyinstaller">Installation via RubyInstaller</h3>
+
+<p><a href="https://rubyinstaller.org/">RubyInstaller</a> is a self-contained Windows-based installer that includes the Ruby language, an execution environment, important documentation, and more.
+We only cover RubyInstaller-2.4 and newer here, older versions need to <a href="https://github.com/oneclick/rubyinstaller/wiki/Development-Kit">install the Devkit</a> manually.</p>
+
+<ol>
+  <li>Download and Install a <strong>Ruby+Devkit</strong> version from <a href="https://rubyinstaller.org/downloads/">RubyInstaller Downloads</a>.
+Use default options for installation.</li>
+  <li>Open a new command prompt window from the start menu, so that changes to the <code class="highlighter-rouge">PATH</code> environment variable becomes effective.
+Install Jekyll and Bundler via: <code class="highlighter-rouge">gem install jekyll bundler</code></li>
+  <li>Check if Jekyll installed properly: <code class="highlighter-rouge">jekyll -v</code></li>
+</ol>
+
+<p>That’s it, you’re ready to install our <a href="https://github.com/jekyll/minima">default minimal blog theme</a> with <code class="highlighter-rouge">jekyll new jekyll-website</code>.</p>
+
+<h3 id="encoding">Encoding</h3>
+
+<p>If you use UTF-8 encoding, make sure that no <code class="highlighter-rouge">BOM</code> header characters exist in your files or very, very bad things will happen to
+Jekyll. This is especially relevant when you’re running Jekyll on Windows.</p>
+
+<p>Additionally, you might need to change the code page of the console window to UTF-8 in case you get a “Liquid Exception: Incompatible character encoding” error during the site generation process. It can be done with the following command:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>chcp 65001
+</code></pre></div></div>
+
+<h3 id="time-zone-management">Time-Zone Management</h3>
+
+<p>Since Windows doesn’t have a native source of zoneinfo data, the Ruby Interpreter would not understand IANA Timezones and hence using them had the <code class="highlighter-rouge">TZ</code> environment variable default to UTC/GMT 00:00.
+Though Windows users could alternatively define their blog’s timezone by setting the key to use POSIX format of defining timezones, it wasn’t as user-friendly when it came to having the clock altered to changing DST-rules.</p>
+
+<p>Jekyll now uses a rubygem to internally configure Timezone based on established <a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">IANA Timezone Database</a>.
+While ‘new’ blogs created with Jekyll v3.4 and greater, will have the following added to their ‘Gemfile’ by default, existing sites <em>will</em> have to update their ‘Gemfile’ (and installed) to enable development on Windows:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Windows does not include zoneinfo files, so bundle the tzinfo-data gem</span>
+<span class="n">gem</span> <span class="s1">'tzinfo-data'</span><span class="p">,</span> <span class="ss">platforms: </span><span class="p">[</span><span class="ss">:mingw</span><span class="p">,</span> <span class="ss">:mswin</span><span class="p">,</span> <span class="ss">:x64_mingw</span><span class="p">,</span> <span class="ss">:jruby</span><span class="p">]</span>
+</code></pre></div></div>
+
+<h3 id="auto-regeneration">Auto Regeneration</h3>
+
+<p>Jekyll uses the <code class="highlighter-rouge">listen</code> gem to watch for changes when the <code class="highlighter-rouge">--watch</code> switch is specified during a build or serve. While <code class="highlighter-rouge">listen</code> has built-in support for UNIX systems, it may require an extra gem for compatibility with Windows.</p>
+
+<p>Add the following to the Gemfile for your site if you have issues with auto-regeneration on Windows alone:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span> <span class="s1">'wdm'</span><span class="p">,</span> <span class="s1">'~&gt; 0.1.1'</span> <span class="k">if</span> <span class="no">Gem</span><span class="p">.</span><span class="nf">win_platform?</span>
+</code></pre></div></div>
+
+<p>You have to use a <a href="https://rubyinstaller.org/downloads/">Ruby+Devkit</a> version of the RubyInstaller.</p>
+
+<h2 id="installation-via-bash-on-windows-10">Installation via Bash on Windows 10</h2>
+
+<p>If you are using Windows 10 version 1607 or later, another option to run Jekyll is by <a href="https://msdn.microsoft.com/en-us/commandline/wsl/install_guide">installing</a> the Windows Subsystem for Linux.</p>
+
+<p><em>Note:</em> You must have <a href="https://msdn.microsoft.com/en-us/commandline/wsl/about">Windows Subsystem for Linux</a> enabled.</p>
+
+<p>First let’s make sure all our packages / repositories are up to date. Open a new Command Prompt instance, and type the following:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bash
+</code></pre></div></div>
+<p>Your Command Prompt instance should now be a Bash instance. Now we must update our repo lists and packages.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt-get update <span class="nt">-y</span> <span class="o">&amp;&amp;</span> <span class="nb">sudo </span>apt-get upgrade <span class="nt">-y</span>
+</code></pre></div></div>
+<p>Now we can install Ruby. To do this we will use a repository from <a href="https://www.brightbox.com/docs/ruby/ubuntu/">BrightBox</a>, which hosts optimized versions of Ruby for Ubuntu.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt-add-repository ppa:brightbox/ruby-ng
+<span class="nb">sudo </span>apt-get update
+<span class="nb">sudo </span>apt-get install ruby2.3 ruby2.3-dev build-essential dh-autoreconf
+</code></pre></div></div>
+
+<p>Next let’s update our Ruby gems:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>gem update
+</code></pre></div></div>
+
+<p>Now all that is left to do is install Jekyll.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>gem install jekyll bundler
+</code></pre></div></div>
+
+<p>Check if Jekyll installed properly by running:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jekyll <span class="nt">-v</span>
+</code></pre></div></div>
+
+<p>Configure the bundler/gem path so bundle doesn’t prompt for sudo</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle config path vendor/bundle
+</code></pre></div></div>
+
+<p><strong>And that’s it!</strong></p>
+
+<p>To start a new project named <code class="highlighter-rouge">my_blog</code>, just run:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jekyll new my_blog
+</code></pre></div></div>
+
+<p>You can make sure time management is working properly by inspecting your <code class="highlighter-rouge">_posts</code> folder. You should see a markdown file with the current date in the filename.</p>
+
+<div class="note info">
+  <h5>Non-superuser account issues</h5>
+  <p>If the `jekyll new` command prints the error "Your user account isn't allowed to install to the system RubyGems", see the "Running Jekyll as Non-Superuser" instructions in <a href="../troubleshooting/index.html#no-sudo">Troubleshooting</a>.</p>
+</div>
+
+<p><strong>Note:</strong> Bash on Ubuntu on Windows is still under development, so you may run into issues.</p>
+
+
+          
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+    <div class="section-nav">
+      <div class="left align-right">
+          
+            
+            
+            <a href="../installation/index.html" class="prev">Back</a>
+          
+      </div>
+      <div class="right align-left">
+          
+            
+            
+            <a href="../usage/index.html" class="next">Next</a>
+          
+      </div>
+    </div>
+    <div class="clear"></div>
+    
+        </article>
+      </div>
+
+      <div class="unit one-fifth hide-on-mobiles">
+  <aside>
+    
+    <h4>Getting Started</h4>
+    <ul>
+
+  
+  
+  <li class=""><a href="../home/index.html">Welcome</a></li>
+
+  
+  
+  <li class=""><a href="../quickstart/index.html">Quick-start guide</a></li>
+
+  
+  
+  <li class=""><a href="../installation/index.html">Installation</a></li>
+
+  
+  
+  <li class="current"><a href="index.html">Jekyll on Windows</a></li>
+
+  
+  
+  <li class=""><a href="../usage/index.html">Basic Usage</a></li>
+
+  
+  
+  <li class=""><a href="../structure/index.html">Directory structure</a></li>
+
+  
+  
+  <li class=""><a href="../configuration/index.html">Configuration</a></li>
+
+</ul>
+
+    
+    <h4>Your Content</h4>
+    <ul>
+
+  
+  
+  <li class=""><a href="../frontmatter/index.html">Front Matter</a></li>
+
+  
+  
+  <li class=""><a href="../posts/index.html">Writing posts</a></li>
+
+  
+  
+  <li class=""><a href="../drafts/index.html">Working with drafts</a></li>
+
+  
+  
+  <li class=""><a href="../pages/index.html">Creating pages</a></li>
+
+  
+  
+  <li class=""><a href="../static-files/index.html">Static Files</a></li>
+
+  
+  
+  <li class=""><a href="../variables/index.html">Variables</a></li>
+
+  
+  
+  <li class=""><a href="../collections/index.html">Collections</a></li>
+
+  
+  
+  <li class=""><a href="../datafiles/index.html">Data Files</a></li>
+
+  
+  
+  <li class=""><a href="../assets/index.html">Assets</a></li>
+
+  
+  
+  <li class=""><a href="../migrations/index.html">Blog migrations</a></li>
+
+</ul>
+
+    
+    <h4>Customization</h4>
+    <ul>
+
+  
+  
+  <li class=""><a href="../templates/index.html">Templates</a></li>
+
+  
+  
+  <li class=""><a href="../includes/index.html">Includes</a></li>
+
+  
+  
+  <li class=""><a href="../permalinks/index.html">Permalinks</a></li>
+
+  
+  
+  <li class=""><a href="../pagination/index.html">Pagination</a></li>
+
+  
+  
+  <li class=""><a href="../plugins/index.html">Plugins</a></li>
+
+  
+  
+  <li class=""><a href="../themes/index.html">Themes</a></li>
+
+  
+  
+  <li class=""><a href="../extras/index.html">Extras</a></li>
+
+</ul>
+
+    
+    <h4>Deployment</h4>
+    <ul>
+
+  
+  
+  <li class=""><a href="../github-pages/index.html">GitHub Pages</a></li>
+
+  
+  
+  <li class=""><a href="../deployment-methods/index.html">Deployment methods</a></li>
+
+  
+  
+  <li class=""><a href="../continuous-integration/index.html">Continuous Integration</a></li>
+
+</ul>
+
+    
+    <h4>Miscellaneous</h4>
+    <ul>
+
+  
+  
+  <li class=""><a href="../troubleshooting/index.html">Troubleshooting</a></li>
+
+  
+  
+  <li class=""><a href="../sites/index.html">Sites using Jekyll</a></li>
+
+  
+  
+  <li class=""><a href="../resources/index.html">Resources</a></li>
+
+  
+  
+  <li class=""><a href="../upgrading/0-to-2/index.html">Upgrading from 0.x to 2.x</a></li>
+
+  
+  
+  <li class=""><a href="../upgrading/2-to-3/index.html">Upgrading from 2.x to 3.x</a></li>
+
+</ul>
+
+    
+    <h4>Meta</h4>
+    <ul>
+
+  
+  
+  <li class=""><a href="../contributing/index.html">Contributing</a></li>
+
+  
+  
+  <li class=""><a href="../maintaining/index.html">Maintaining Jekyll</a></li>
+
+  
+  
+  <li class=""><a href="../conduct/index.html">Code of Conduct</a></li>
+
+  
+  
+  <li class=""><a href="../history/index.html">History</a></li>
+
+</ul>
+
+    
+  </aside>
+</div>
+
+
+      <div class="clear"></div>
+
+    </div>
+  </section>
+
+
+  <footer>
+  <div class="grid">
+    <div class="unit one-third center-on-mobiles">
+      <p>The contents of this website are <br />&copy;&nbsp;2018 under the terms of the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE">MIT&nbsp;License</a>.</p>
+    </div>
+    <div class="unit two-thirds align-right center-on-mobiles">
+      <p>
+        Proudly hosted by
+        <a href="https://github.com/">
+          <img src="../../img/footer-logo.png" width="100" height="30" alt="GitHub • Social coding">
+        </a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+  <script>
+  var anchorForId = function (id) {
+    var anchor = document.createElement("a");
+    anchor.className = "header-link";
+    anchor.href      = "#" + id;
+    anchor.innerHTML = "<span class=\"sr-only\">Permalink</span><i class=\"fa fa-link\"></i>";
+    anchor.title = "Permalink";
+    return anchor;
+  };
+
+  var linkifyAnchors = function (level, containingElement) {
+    var headers = containingElement.getElementsByTagName("h" + level);
+    for (var h = 0; h < headers.length; h++) {
+      var header = headers[h];
+
+      if (typeof header.id !== "undefined" && header.id !== "") {
+        header.appendChild(anchorForId(header.id));
+      }
+    }
+  };
+
+  document.onreadystatechange = function () {
+    if (this.readyState === "complete") {
+      var contentBlock = document.getElementsByClassName("docs")[0] || document.getElementsByClassName("news")[0];
+      if (!contentBlock) {
+        return;
+      }
+      for (var level = 1; level <= 6; level++) {
+        linkifyAnchors(level, contentBlock);
+      }
+    }
+  };
+</script>
+
+  
+  <!-- Google Analytics (https://www.google.com/analytics) -->
+  <script>
+    !function(j,e,k,y,l,L){j.GoogleAnalyticsObject=y,j[y]||(j[y]=function(){
+    (j[y].q=j[y].q||[]).push(arguments)}),j[y].l=+new Date,l=e.createElement(k),
+    L=e.getElementsByTagName(k)[0],l.src='../../../www.google-analytics.com/analytics.js',
+    L.parentNode.insertBefore(l,L)}(window,document,'script','ga');
+
+    ga('create', 'UA-50755011-1', 'jekyllrb.com');
+    ga('send', 'pageview');
+
+  </script>
+
+
+  <script type="text/javascript" src="../../../cdn.jsdelivr.net/npm/docsearch.js%402/dist/cdn/docsearch.min.js"></script>
+<script type="text/javascript"> docsearch({
+apiKey: '50fe39c839958dfad797000f33e2ec17',
+indexName: 'jekyllrb',
+inputSelector: '#docsearch-input',
+enhancedSearchInput: true,
+debug: false // Set debug to true if you want to inspect the dropdown
+});
+</script>
+
+</body>
+
+<!-- Mirrored from jekyllrb.com/docs/windows/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 08 May 2018 01:25:59 GMT -->
+</html>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/git-lfs/git-lfs/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/git-lfs/git-lfs/commits/master.atom"/>
+  <title>Recent Commits to git-lfs:master</title>
+  <updated>2018-05-05T00:53:29Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a6a5ba2f38d364f60d4f1b4b5361888fa76575bd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/a6a5ba2f38d364f60d4f1b4b5361888fa76575bd"/>
+    <title>
+        Merge pull request #2997 from zackse/remove-cla-reference
+    </title>
+    <updated>2018-05-05T00:53:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2997 from zackse/remove-cla-reference
+
+remove reference to CLA from contributor&amp;#39;s guide&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b265385a7e8f24a2bafded5f1e92b1f04d26789a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/b265385a7e8f24a2bafded5f1e92b1f04d26789a"/>
+    <title>
+        remove reference to CLA from contributor&#39;s guide
+    </title>
+    <updated>2018-05-04T23:41:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/ecf1ccdf1d3d243c59c6d2d334d17b83?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>ezacks@barracuda.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;remove reference to CLA from contributor&amp;#39;s guide&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7b571bd5f13112064ad28af33e9d4936d7aa27b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/d7b571bd5f13112064ad28af33e9d4936d7aa27b"/>
+    <title>
+        Merge pull request #2996 from git-lfs/lock-resolve-working-dir
+    </title>
+    <updated>2018-05-04T23:03:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2996 from git-lfs/lock-resolve-working-dir
+
+commands/lock: follow symlinks before locking&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5dc2532cc75994ec70f8c722976cb87d0e027dd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/5dc2532cc75994ec70f8c722976cb87d0e027dd8"/>
+    <title>
+        commands/command_lock: resolve symbolic links in cwd
+    </title>
+    <updated>2018-05-04T22:28:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;commands/command_lock: resolve symbolic links in cwd&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c8b3160d9f0cb23de2c172c0cf2ab63f90bdfc66</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/c8b3160d9f0cb23de2c172c0cf2ab63f90bdfc66"/>
+    <title>
+        test/test-lock.sh: fix misquoting
+    </title>
+    <updated>2018-05-04T21:49:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;test/test-lock.sh: fix misquoting&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/71ffc6d8a8dd9f774e3aabafb74f5dcd23e27e4c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/71ffc6d8a8dd9f774e3aabafb74f5dcd23e27e4c"/>
+    <title>
+        Merge pull request #2994 from git-lfs/install-no-write-defaults
+    </title>
+    <updated>2018-05-04T21:31:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2994 from git-lfs/install-no-write-defaults
+
+lfs/attribute.go: remove default value from upgradeables&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b3509e1e8f2896d5e82e184f561677797a6192af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/b3509e1e8f2896d5e82e184f561677797a6192af"/>
+    <title>
+        lfs/attribute.go: remove default value from upgradeables
+    </title>
+    <updated>2018-05-04T16:09:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;lfs/attribute.go: remove default value from upgradeables&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/75d7f1e2c27cec185b7174213a9bfbe31e79dd60</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/75d7f1e2c27cec185b7174213a9bfbe31e79dd60"/>
+    <title>
+        Merge pull request #2982 from git-lfs/git-include-sha1-in-ref-parse
+    </title>
+    <updated>2018-05-02T20:47:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2982 from git-lfs/git-include-sha1-in-ref-parse
+
+git: include SHA1 in ref-less revisions&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/568a0ca167515e952be982e790730629cda9feb5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/568a0ca167515e952be982e790730629cda9feb5"/>
+    <title>
+        Merge branch &#39;master&#39; into git-include-sha1-in-ref-parse
+    </title>
+    <updated>2018-04-30T15:52:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into git-include-sha1-in-ref-parse&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/41794dfc53a180b6bc2a2d2baedf382808d5602c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/41794dfc53a180b6bc2a2d2baedf382808d5602c"/>
+    <title>
+        Merge pull request #2983 from patrickmarlier/symlink
+    </title>
+    <updated>2018-04-27T16:12:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2983 from patrickmarlier/symlink
+
+Do not migrate the symlinks to LFS objects.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f7349b43cc1188a2a3fd36a4438adba17639842e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/f7349b43cc1188a2a3fd36a4438adba17639842e"/>
+    <title>
+        Add and use helper to add symbolic link
+    </title>
+    <updated>2018-04-27T06:33:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3294919?s=30&amp;v=4"/>
+    <author>
+      <name>patrickmarlier</name>
+      <uri>https://github.com/patrickmarlier</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add and use helper to add symbolic link
+
+In Windows, &amp;quot;ln -s&amp;quot; might not create a symbolic link depending on the
+configuration.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aeabdc62a0ac4af16d1359d52e24e18e35ddddd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/aeabdc62a0ac4af16d1359d52e24e18e35ddddd8"/>
+    <title>
+        Merge branch &#39;master&#39; into symlink
+    </title>
+    <updated>2018-04-27T05:32:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3294919?s=30&amp;v=4"/>
+    <author>
+      <name>patrickmarlier</name>
+      <uri>https://github.com/patrickmarlier</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into symlink&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e12a8b6b386560f485ca86e1d2b594d6b07216ff</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/e12a8b6b386560f485ca86e1d2b594d6b07216ff"/>
+    <title>
+        Do not migrate the symlinks to LFS objects.
+    </title>
+    <updated>2018-04-27T05:18:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3294919?s=30&amp;v=4"/>
+    <author>
+      <name>patrickmarlier</name>
+      <uri>https://github.com/patrickmarlier</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Do not migrate the symlinks to LFS objects.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/67d8674dff21ef3fe57239fb1c0b8517ec8dbb14</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/67d8674dff21ef3fe57239fb1c0b8517ec8dbb14"/>
+    <title>
+        Merge pull request #2985 from zanglang/patch-1
+    </title>
+    <updated>2018-04-27T04:10:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2985 from zanglang/patch-1
+
+.gitattributes link is broken&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c5da1713e08dcb925967c494d23781d3e3e4a802</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/c5da1713e08dcb925967c494d23781d3e3e4a802"/>
+    <title>
+        .gitattributes link is broken
+    </title>
+    <updated>2018-04-27T03:19:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/99406?s=30&amp;v=4"/>
+    <author>
+      <name>zanglang</name>
+      <uri>https://github.com/zanglang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;.gitattributes link is broken
+
+The link that points to gitattributes&amp;#39; documentation appears to be broken, should&amp;#39;ve been https://git-scm.com/docs/gitattributes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/027ea461863c9f2365b47959218c5c2da749cb04</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/027ea461863c9f2365b47959218c5c2da749cb04"/>
+    <title>
+        Merge pull request #2976 from git-lfs/uninstall-consistent-logging
+    </title>
+    <updated>2018-04-20T03:39:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2976 from git-lfs/uninstall-consistent-logging
+
+commands/uninstall: do not log about global hooks with --local&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/68da2113044d57d84bc128e44302f01af14ecff2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/68da2113044d57d84bc128e44302f01af14ecff2"/>
+    <title>
+        commands/uninstall: do not log about global hooks with --local
+    </title>
+    <updated>2018-04-18T22:21:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;commands/uninstall: do not log about global hooks with --local&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/987c1377f7931040a49f4323109605f6afa7ed08</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/987c1377f7931040a49f4323109605f6afa7ed08"/>
+    <title>
+        git: include SHA1 in ref-less revisions
+    </title>
+    <updated>2018-04-18T22:14:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;git: include SHA1 in ref-less revisions&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f9c1513d44a550bcbe3a2ebffce951c791b793d8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/f9c1513d44a550bcbe3a2ebffce951c791b793d8"/>
+    <title>
+        Merge pull request #2912 from sprohaska/pr/file-endpoint
+    </title>
+    <updated>2018-04-18T21:46:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2912 from sprohaska/pr/file-endpoint
+
+Map local abspath to file://&amp;lt;abspath&amp;gt; endpoint URL&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fd5ae09f84cde1563dcf88ed554d3f6b8766a913</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/fd5ae09f84cde1563dcf88ed554d3f6b8766a913"/>
+    <title>
+        Merge pull request #2969 from git-lfs/exit-on-unknown-subcommand
+    </title>
+    <updated>2018-04-12T23:07:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/443245?s=30&amp;v=4"/>
+    <author>
+      <name>ttaylorr</name>
+      <uri>https://github.com/ttaylorr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2969 from git-lfs/exit-on-unknown-subcommand
+
+commands/run.go: exit 127 on unknown sub-command&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

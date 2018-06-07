@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/newsapps/beeswithmachineguns/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/newsapps/beeswithmachineguns/commits/master.atom"/>
+  <title>Recent Commits to beeswithmachineguns:master</title>
+  <updated>2017-12-20T16:56:18Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4b8783dc36d327ad95b711db39054d64bd718344</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/4b8783dc36d327ad95b711db39054d64bd718344"/>
+    <title>
+        Merge pull request #202 from SHLo/support-custom-tags
+    </title>
+    <updated>2017-12-20T16:56:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1358?s=30&amp;v=4"/>
+    <author>
+      <name>cosmin</name>
+      <uri>https://github.com/cosmin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #202 from SHLo/support-custom-tags
+
+Support for custom tagging #109&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/beecddb0aef56cd3cacaa5c8000a7ff59c1a4bfd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/beecddb0aef56cd3cacaa5c8000a7ff59c1a4bfd"/>
+    <title>
+        Support for custom tagging #109
+    </title>
+    <updated>2017-12-20T11:25:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/12f18fcdf8827169c943563d3a45e696?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>samlo@intowow.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Support for custom tagging #109&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/85fd9866a6a72b98c0f6d4afb8017933da5cc97b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/85fd9866a6a72b98c0f6d4afb8017933da5cc97b"/>
+    <title>
+        Merge pull request #200 from FliesLikeABrick/feature/support-sg-id
+    </title>
+    <updated>2017-11-29T01:02:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1358?s=30&amp;v=4"/>
+    <author>
+      <name>cosmin</name>
+      <uri>https://github.com/cosmin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #200 from FliesLikeABrick/feature/support-sg-id
+
+Improvement for #186 in beeswithmachineguns, accept sg ID and name&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/21ef2b11bb848ba6672b15d0e0deb73e46059b9e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/21ef2b11bb848ba6672b15d0e0deb73e46059b9e"/>
+    <title>
+        Improvement for #186 in beeswithmachineguns, to try and help with pos…
+    </title>
+    <updated>2017-11-28T14:26:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improvement for #186 in beeswithmachineguns, to try and help with possible user experience issues.  BWMG requires an id for subnets, but a name for security groups.  This commit adds a fallback for security group lookup to use the provided name as an id.  This could be optimized by checking if the name provided starts with sg- then using it as an ID, but hardcoding this arbitrary string check was avoided&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c35836471a254f3362f95b6a0f537a49d46e7880</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/c35836471a254f3362f95b6a0f537a49d46e7880"/>
+    <title>
+        Merge pull request #198 from FliesLikeABrick/hotfix/fix-issue-197
+    </title>
+    <updated>2017-11-28T03:20:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1358?s=30&amp;v=4"/>
+    <author>
+      <name>cosmin</name>
+      <uri>https://github.com/cosmin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #198 from FliesLikeABrick/hotfix/fix-issue-197
+
+Replace fgrep usage with grep to fix issue #197 in beeswithmachineguns&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ab65451942abf10539726d1b5786d7e2ea06800c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/ab65451942abf10539726d1b5786d7e2ea06800c"/>
+    <title>
+        Replace fgrep usage with grep to fix issue #197 in beeswithmachineguns
+    </title>
+    <updated>2017-11-28T02:46:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1180584?s=30&amp;v=4"/>
+    <author>
+      <name>FliesLikeABrick</name>
+      <uri>https://github.com/FliesLikeABrick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Replace fgrep usage with grep to fix issue #197 in beeswithmachineguns&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/92c218a29c70293dee98ee7877e80e37835c4c0b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/92c218a29c70293dee98ee7877e80e37835c4c0b"/>
+    <title>
+        Merge pull request #196 from FliesLikeABrick/feature/add-troubleshoot…
+    </title>
+    <updated>2017-11-16T18:32:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1358?s=30&amp;v=4"/>
+    <author>
+      <name>cosmin</name>
+      <uri>https://github.com/cosmin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #196 from FliesLikeABrick/feature/add-troubleshooting-to-readme
+
+Feature/add troubleshooting to readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cf47b83343eccb3edad57d48078db40b50f154c6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/cf47b83343eccb3edad57d48078db40b50f154c6"/>
+    <title>
+        Tweaking readme troubleshooting
+    </title>
+    <updated>2017-11-16T16:52:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tweaking readme troubleshooting&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2ae8fdd546edf7e9c3f086e028deedd0e78ce96a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/2ae8fdd546edf7e9c3f086e028deedd0e78ce96a"/>
+    <title>
+        Tweaking readme troubleshooting
+    </title>
+    <updated>2017-11-16T16:51:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tweaking readme troubleshooting&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5f8efe9aba9c928ee8e638cb3f24b5a05a241426</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/5f8efe9aba9c928ee8e638cb3f24b5a05a241426"/>
+    <title>
+        Added troubleshooting section to readme
+    </title>
+    <updated>2017-11-16T16:49:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added troubleshooting section to readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c9c855a4c0c4ba33f3aac2c0fc32478376e56306</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/c9c855a4c0c4ba33f3aac2c0fc32478376e56306"/>
+    <title>
+        Merge https://github.com/newsapps/beeswithmachineguns
+    </title>
+    <updated>2017-11-16T16:44:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge https://github.com/newsapps/beeswithmachineguns&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cdbd94833b7624046f74179d82796bfac78bc537</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/cdbd94833b7624046f74179d82796bfac78bc537"/>
+    <title>
+        Merge branch &#39;hotfix/fix-beeswithmachineguns-issue-76&#39;
+    </title>
+    <updated>2017-11-16T16:42:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;hotfix/fix-beeswithmachineguns-issue-76&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/497b1244abe336f0117cc31f568961debe428bc8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/497b1244abe336f0117cc31f568961debe428bc8"/>
+    <title>
+        Merge branch &#39;feature/reduce-ssh-bandwidth-issue-194&#39;
+    </title>
+    <updated>2017-11-16T16:42:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;feature/reduce-ssh-bandwidth-issue-194&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/49dab15d12ef7611b2eb333895fc140061ea4047</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/49dab15d12ef7611b2eb333895fc140061ea4047"/>
+    <title>
+        Merge pull request #193 from FliesLikeABrick/hotfix/fix-beeswithmachi…
+    </title>
+    <updated>2017-11-16T15:53:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1358?s=30&amp;v=4"/>
+    <author>
+      <name>cosmin</name>
+      <uri>https://github.com/cosmin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #193 from FliesLikeABrick/hotfix/fix-beeswithmachineguns-issue-76
+
+Fixes newsapps/beeswithmachineguns issue #76 - allows adding instances&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/798ed6a710a02831ce9a4316224f9ffc26fa956a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/798ed6a710a02831ce9a4316224f9ffc26fa956a"/>
+    <title>
+        Merge pull request #195 from FliesLikeABrick/feature/reduce-ssh-bandw…
+    </title>
+    <updated>2017-11-16T15:52:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1358?s=30&amp;v=4"/>
+    <author>
+      <name>cosmin</name>
+      <uri>https://github.com/cosmin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #195 from FliesLikeABrick/feature/reduce-ssh-bandwidth-issue-194
+
+Reduce BWMG Instance SSH data&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b59de1b0e20aeb57e678c0cc984451f0f356d214</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/b59de1b0e20aeb57e678c0cc984451f0f356d214"/>
+    <title>
+        Merge pull request #192 from FliesLikeABrick/feature/bwmg-issue-191-a…
+    </title>
+    <updated>2017-11-16T15:50:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1358?s=30&amp;v=4"/>
+    <author>
+      <name>cosmin</name>
+      <uri>https://github.com/cosmin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #192 from FliesLikeABrick/feature/bwmg-issue-191-add-ab-z-cipher-suite-option
+
+Adds cipher suite option for newsapps/beeswithmachineguns #191, allow…&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/584e51c5e0d6820ebfc7dc5be561c7db5f0f1892</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/584e51c5e0d6820ebfc7dc5be561c7db5f0f1892"/>
+    <title>
+        Fixed whitespacing in the #194 fix
+    </title>
+    <updated>2017-11-16T15:09:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed whitespacing in the #194 fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/95fbe28160b2cd9389f555e75b9182a763cde807</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/95fbe28160b2cd9389f555e75b9182a763cde807"/>
+    <title>
+        Resolves newsapps/beeswithmachineguns #194, pertaining to overload of…
+    </title>
+    <updated>2017-11-16T15:07:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Resolves newsapps/beeswithmachineguns #194, pertaining to overload of data carried via SSH to Python BWMG, especially for HTTPS.  stderr disacarded in benchmark_command, and stdout filtered remotely with fast non-regexp fgrep.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/50673df2f83c1779cd0322f8dfec74d9f9fc0926</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/50673df2f83c1779cd0322f8dfec74d9f9fc0926"/>
+    <title>
+        Fixes newsapps/beeswithmachineguns issue #76.  Existing instances wer…
+    </title>
+    <updated>2017-11-16T13:58:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixes newsapps/beeswithmachineguns issue #76.  Existing instances were not counted correctly due to the number of instances per reservation being greater than 1 in most use cases.  Fixed two list comprehensions to extract the full list of instances instead of the first one from each reservation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/badf70d78f66d8664d05bcf09d2f10628efeb20a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/newsapps/beeswithmachineguns/commit/badf70d78f66d8664d05bcf09d2f10628efeb20a"/>
+    <title>
+        Adds cipher suite option for newsapps/beeswithmachineguns #191, allow…
+    </title>
+    <updated>2017-11-16T13:46:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/43c17960b4548fa53bc1f29f44fe97df?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>rrawdon@conversantmedia.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adds cipher suite option for newsapps/beeswithmachineguns #191, allowing specification of openssl cipher suite names with -Z, passed to Apachebench -Z option.  Apachebench-only currently, hurl may or may not offer a similar option&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/fivethirtyeight/data/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/fivethirtyeight/data/commits/master.atom"/>
+  <title>Recent Commits to data:master</title>
+  <updated>2018-05-07T17:55:54Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e27d5358e922f0315837ff8a3976ee423a36eb49</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/e27d5358e922f0315837ff8a3976ee423a36eb49"/>
+    <title>
+        Merge pull request #181 from mikeckennedy/master
+    </title>
+    <updated>2018-05-07T17:55:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #181 from mikeckennedy/master
+
+Changes encoding to UTF-8 to fix load error.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8268ea8408ee344ecb39cb88ccf7ae4988290246</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/8268ea8408ee344ecb39cb88ccf7ae4988290246"/>
+    <title>
+        Changes encoding to UTF-8 to fix load error.
+    </title>
+    <updated>2018-04-30T21:23:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/2035561?s=30&amp;v=4"/>
+    <author>
+      <name>mikeckennedy</name>
+      <uri>https://github.com/mikeckennedy</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Changes encoding to UTF-8 to fix load error.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/51779e9dd31c2c7baf718399288e6943e8731e9c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/51779e9dd31c2c7baf718399288e6943e8731e9c"/>
+    <title>
+        Merge pull request #126 from mbrickn/patch-1
+    </title>
+    <updated>2018-04-03T16:17:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/102197?s=30&amp;v=4"/>
+    <author>
+      <name>ascheink</name>
+      <uri>https://github.com/ascheink</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #126 from mbrickn/patch-1
+
+Updated links to use https&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8f4aa076a6c62c92fb34930847801a38970c29c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/8f4aa076a6c62c92fb34930847801a38970c29c2"/>
+    <title>
+        update index
+    </title>
+    <updated>2018-04-03T15:29:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update index&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c65956f42025dc8068624c7b23ca2755dc1e9e3e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/c65956f42025dc8068624c7b23ca2755dc1e9e3e"/>
+    <title>
+        add to index
+    </title>
+    <updated>2018-04-03T15:07:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add to index&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f420011fb3348cce3ccb9d7d3f418e604c279252</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/f420011fb3348cce3ccb9d7d3f418e604c279252"/>
+    <title>
+        update README
+    </title>
+    <updated>2018-04-03T15:06:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update README&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a64bad0d8ac583160b82d54eaf45addb9f28d512</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/a64bad0d8ac583160b82d54eaf45addb9f28d512"/>
+    <title>
+        update README
+    </title>
+    <updated>2018-04-03T15:05:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update README&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6100bee93a55602469f1bdfa7ce8451c733b313e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/6100bee93a55602469f1bdfa7ce8451c733b313e"/>
+    <title>
+        update README
+    </title>
+    <updated>2018-03-30T19:27:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update README&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f6098ea552020b1b9402d59e226bc1de574708e9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/f6098ea552020b1b9402d59e226bc1de574708e9"/>
+    <title>
+        rename file
+    </title>
+    <updated>2018-03-30T19:25:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;rename file&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/313343cbf3cac41681078151c226759299f94703</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/313343cbf3cac41681078151c226759299f94703"/>
+    <title>
+        add special-elections data
+    </title>
+    <updated>2018-03-30T19:25:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add special-elections data&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/77fb7d5dd5ca5fda418a089a2ab10b689e80f223</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/77fb7d5dd5ca5fda418a089a2ab10b689e80f223"/>
+    <title>
+        Updated links to use https
+    </title>
+    <updated>2018-03-29T21:13:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5591107?s=30&amp;v=4"/>
+    <author>
+      <name>mbrickn</name>
+      <uri>https://github.com/mbrickn</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated links to use https
+
+Updated links to use https to avoid a redirect.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7f23870a39b3424101a5131fdc4c6e18f3698b17</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/7f23870a39b3424101a5131fdc4c6e18f3698b17"/>
+    <title>
+        Update MLB url
+    </title>
+    <updated>2018-03-28T15:04:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/57236?s=30&amp;v=4"/>
+    <author>
+      <name>jayb</name>
+      <uri>https://github.com/jayb</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update MLB url&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ec508b0b939846f2156c5004d60974eeb3458bfd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/ec508b0b939846f2156c5004d60974eeb3458bfd"/>
+    <title>
+        Update MLB url
+    </title>
+    <updated>2018-03-28T15:00:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/57236?s=30&amp;v=4"/>
+    <author>
+      <name>jayb</name>
+      <uri>https://github.com/jayb</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update MLB url&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/adabcc7aa9f4847625b4b9754b1b0be68317ef8d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/adabcc7aa9f4847625b4b9754b1b0be68317ef8d"/>
+    <title>
+        add congress-trump-score
+    </title>
+    <updated>2018-03-14T19:14:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add congress-trump-score&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aa3819f336c4456b524b80c4a97c199ec4517042</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/aa3819f336c4456b524b80c4a97c199ec4517042"/>
+    <title>
+        add one more reluctant-trump to index
+    </title>
+    <updated>2018-03-13T18:20:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add one more reluctant-trump to index&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/749a6c9f4335555a59fdd36a1a53d94ce7c08143</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/749a6c9f4335555a59fdd36a1a53d94ce7c08143"/>
+    <title>
+        update reluctant-trump
+    </title>
+    <updated>2018-03-13T18:16:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update reluctant-trump&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/14b0e3dfd449b0fae87087ee0f6d2d2ebb427047</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/14b0e3dfd449b0fae87087ee0f6d2d2ebb427047"/>
+    <title>
+        update link in index
+    </title>
+    <updated>2018-03-12T12:31:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update link in index&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2ff6b2239e2afe7301485d4551095f9f4ee8efef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/2ff6b2239e2afe7301485d4551095f9f4ee8efef"/>
+    <title>
+        README edit
+    </title>
+    <updated>2018-03-12T00:32:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/57236?s=30&amp;v=4"/>
+    <author>
+      <name>jayb</name>
+      <uri>https://github.com/jayb</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;README edit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/394077fd1622bb7a6c373e9ee02bea3c37018f84</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/394077fd1622bb7a6c373e9ee02bea3c37018f84"/>
+    <title>
+        Add entry for march madness
+    </title>
+    <updated>2018-03-12T00:31:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/57236?s=30&amp;v=4"/>
+    <author>
+      <name>jayb</name>
+      <uri>https://github.com/jayb</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add entry for march madness&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/726db7d67f044eded4e9b720d1c7a75c395c3d39</id>
+    <link type="text/html" rel="alternate" href="https://github.com/fivethirtyeight/data/commit/726db7d67f044eded4e9b720d1c7a75c395c3d39"/>
+    <title>
+        update index
+    </title>
+    <updated>2018-03-09T15:04:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/468544?s=30&amp;v=4"/>
+    <author>
+      <name>dmil</name>
+      <uri>https://github.com/dmil</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update index&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>
